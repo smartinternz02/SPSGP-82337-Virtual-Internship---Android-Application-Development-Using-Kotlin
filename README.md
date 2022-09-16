@@ -25,7 +25,8 @@ Screenshots --
 ![image](https://user-images.githubusercontent.com/80912984/190585424-89eb5ff8-026f-45f2-b6d4-35fee8d6db52.png)
 
 
-![image](https://user-images.githubusercontent.com/80912984/190585536-bd09e71f-e462-4f39-ae03-8339c56fdc61.png)
+![image](https://user-images.githubusercontent.com/80912984/190586318-1832a3e4-e230-4209-a66a-222870b6a10c.png)
+
 
 ![image](https://user-images.githubusercontent.com/80912984/190585678-44d75bd2-44ca-456f-b2d4-674468278297.png)
 
