@@ -7,5 +7,6 @@ Grocery App Videp Linf -- https://youtu.be/FF5YXKA7TqU
 
 Screenshots --
 
-![image](https://user-images.githubusercontent.com/80912984/190583695-252db843-fe8d-4d92-90c7-ef819c302c82.png)
+![image](https://user-images.githubusercontent.com/80912984/190583943-6f07307b-db47-4144-9eeb-889196c0bcf3.png)
+
 
