@@ -6,6 +6,7 @@ Build A Grocery Android App - Project 2 Document - [SPSGP-82337-Virtual Internsh
 Grocery App Videp Linf -- https://youtu.be/FF5YXKA7TqU
 
 Screenshots --
+
 ![image](https://user-images.githubusercontent.com/80912984/190584102-f5b54dca-79ba-4af1-b139-c37c4568029c.png)
 
 
